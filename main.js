@@ -91,5 +91,3 @@ const dtoIn = {
 
 const dtoOut = main(dtoIn);
 
-console.log(dtoOut);
-
